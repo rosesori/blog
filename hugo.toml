@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'rosesori blog'
+title = 'rosesori'
 theme = 'hugo-theme-stack'
